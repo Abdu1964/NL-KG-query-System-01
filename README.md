@@ -2,7 +2,7 @@ README
 
 Project Overview
 
-This project enables natural language querying of a Neo4j knowledge graph by integrating Gemini for NLP to translate user queries into Cypher queries and execute them on Neo4j.
+This project enables natural language querying of a Neo4j knowledge graph by integrating Gemini for NLP to translate user queries into Cypher queries and execute them on Neo4j.once excuted return back to the user in a user friendly way.
 
 Steps Taken
 
